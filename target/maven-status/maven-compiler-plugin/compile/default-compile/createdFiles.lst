@@ -1,0 +1,13 @@
+hu\ulyssys\java\course\jpa\hw\hibernate\entity\BlogPost.class
+hu\ulyssys\java\course\jpa\hw\jpa\entity\dao\BlogPostJPADAO.class
+hu\ulyssys\java\course\jpa\hw\jpa\entity\dao\AuthorJPADAO.class
+hu\ulyssys\java\course\jpa\hw\hibernate\entity\Author.class
+hu\ulyssys\java\course\jpa\hw\jpa\entity\BlogPostJPA.class
+hu\ulyssys\java\course\jpa\hw\jpa\entity\AuthorJPA.class
+hu\ulyssys\java\course\jpa\hw\jpa\entity\dao\impl\AuthorJPADAOImpl.class
+hu\ulyssys\java\course\jpa\hw\hibernate\HibernateMain.class
+hu\ulyssys\java\course\jpa\hw\jpa\entity\AbstractBlogJPA.class
+hu\ulyssys\java\course\jpa\hw\hibernate\entity\AbstractBlog.class
+hu\ulyssys\java\course\jpa\hw\jpa\entity\dao\impl\BlogPostJPADAOImpl.class
+hu\ulyssys\java\course\jpa\hw\hibernate\DatabaseSessionProvider.class
+hu\ulyssys\java\course\jpa\hw\jpa\JPAMain.class
